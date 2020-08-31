@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### I Need A Unique Introduction
+I'm a solo programmer and aspiring artist. I like to do a little bit of everything just for fun.
+- I've been a Documentarist for George Moromisato's Transcendence
+- I write XML
+- I used to make some 3D science-fiction spaceships.
+- I'm practicing digital painting for the art of it.
+- I know how to make a Discord bot.
+- I like to develop roguelike games.
+- My current long-term personal project is TranscendenceRL.
 <!--
 **INeedAUniqueUsername/INeedAUniqueUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
