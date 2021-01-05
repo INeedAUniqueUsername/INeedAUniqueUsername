@@ -7,6 +7,8 @@ I'm a solo programmer and aspiring artist. I like to do a little bit of everythi
 - I know how to make Discord bots.
 - I like to develop roguelike games. I have never played a roguelike.
 - My current long-term personal project is TranscendenceRL.
+
+If you need a more unique experience, view my GitHub Page at https://INeedAUniqueUsername.github.io
 <!--
 **INeedAUniqueUsername/INeedAUniqueUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
