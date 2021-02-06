@@ -1,4 +1,4 @@
-![](https://avatars.githubusercontent.com/u/15680274?s=460&u=740a5331ecfd6ef22dd810e38c6839779d04673e&v=4)
+![](https://ineedauniqueusername.github.io/INeedAUniqueBanner.png)
 ### I Need A Unique Introduction
 I'm a solo programmer and aspiring artist. I like to do a little bit of everything just for fun. I have too much free time.
 - I'm a Documentarist for George Moromisato's *Transcendence*
