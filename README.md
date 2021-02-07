@@ -1,5 +1,9 @@
 ![](https://ineedauniqueusername.github.io/INeedAUniqueBanner.png)
-### I Need A Unique Introduction
+
+____
+#### <a href="https://github.com/INeedAUniqueUsername/">[Profile]</a> || <a href="https://ineedauniqueusername.github.io/">[Website]</a> || <a>[Transcendence Mods]</a> || <a>[Transgenesis II]</a> || <a href="https://ineedauniqueusername.github.io/gallery.html">[3D Ship Gallery]</a> || <a href="https://ineedauniqueusername.github.io/ASECII.html">[ASECII]</a> || <a href="https://ineedauniqueusername.github.io/TranscendenceRL.html">[TranscendenceRL]</a> || <a href="https://ineedauniqueusername.github.io/snes.html">[Super Nostalgia Entertainment Syndrome]</a> || <a href="http://arch.spongejr.com/cavex/CaveX.html">[CaveX]</a> || <a href="http://arch.spongejr.com/rosehack/index.html">[ROSE || HACK]</a> || <a href="lc-sharp.html">[LC-Sharp]</a> || <a>[Discord Bots]</a> || <a>[The Mind Electronic]</a>
+____
+# I Need A Unique Introduction
 I'm a solo programmer and aspiring artist. I like to do a little bit of everything just for fun. I have too much free time.
 - I'm a Documentarist for George Moromisato's *Transcendence*
 - I write XML
@@ -9,7 +13,6 @@ I'm a solo programmer and aspiring artist. I like to do a little bit of everythi
 - I like to develop roguelike games. I have never played a roguelike.
 - My current long-term personal project is TranscendenceRL.
 
-If you need a more unique experience, view my GitHub Page at https://INeedAUniqueUsername.github.io
 <!--
 **INeedAUniqueUsername/INeedAUniqueUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
